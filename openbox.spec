@@ -6,7 +6,7 @@
 #
 Name     : openbox
 Version  : 3.6.1
-Release  : 2
+Release  : 3
 URL      : http://openbox.org/dist/openbox/openbox-3.6.1.tar.xz
 Source0  : http://openbox.org/dist/openbox/openbox-3.6.1.tar.xz
 Source1 : http://openbox.org/dist/openbox/openbox-3.6.1.tar.xz.asc
